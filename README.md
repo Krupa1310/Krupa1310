@@ -16,18 +16,12 @@
 
 ## 🎓 Currently
 
-<p align="center">
-  <b>KLE Technological University</b><br>
-  Hubli, Karnataka
-</p>
+**KLE Technological University**
+**Hubli, Karnataka**
 
-I'm a **Computer Science & Engineering (Artificial Intelligence)** student exploring:
+CSE (Artificial Intelligence) student exploring **AI/ML, intelligent systems, data, software development, and cloud computing**.
 
-**AI/ML • Intelligent Systems • Data • Software Development • Cloud Computing**
-
-Learning by:
-
-**Building • Debugging • Experimenting • Trying Again**
+Learning by **building • debugging • experimenting**.
 
 ---
 
@@ -39,7 +33,7 @@ I'm constantly somewhere between **"I wonder how this works"** and **"okay, now 
 
 My interests revolve around **AI/ML, intelligent systems, data, software development, and problem solving**.
 
-I enjoy projects where there is more to solve than just writing code — understanding the problem, figuring out the architecture, trying different approaches, and debugging things that absolutely did not want to be debugged 
+I enjoy projects where there is more to solve than just writing code — understanding the problem, figuring out the architecture, trying different approaches, and debugging things that absolutely did not want to be debugged 😭
 
 Most of my learning happens somewhere between a **terminal, a half-finished project, and far too many tabs open**.
 
@@ -49,13 +43,8 @@ I learn by **building, breaking, fixing, and trying again.**
 
 ## 💻 Interests
 
-<p align="center">
-
 **AI / ML** • **Intelligent Systems** • **Data & Analytics**
-
 **Software Development** • **Cloud Computing** • **Problem Solving**
-
-</p>
 
 ---
 
@@ -86,13 +75,8 @@ Parallel computing experiment exploring matrix multiplication and performance.
 
 ## 📚 Currently Learning
 
-<p align="center">
-
-**Machine Learning** • **Deep Learning** • **AI Systems**
-
-**Data Processing** • **Cloud Computing** • **Parallel Computing**
-
-</p>
+**Machine Learning • Deep Learning • AI Systems**
+**Data Processing • Cloud Computing • Parallel Computing**
 
 ---
 
@@ -123,30 +107,6 @@ Parallel computing experiment exploring matrix multiplication and performance.
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Krupa1310/CC-Experiment1-Hypervisor-Performance-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krupa1310&repo=CC-Experiment1-Hypervisor-Performance-Analysis&theme=default" />
-</a>
-
-<a href="https://github.com/Krupa1310/CC-Experiment-2-vm-vs-container-performance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krupa1310&repo=CC-Experiment-2-vm-vs-container-performance&theme=default" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Krupa1310/PGC-Experiment-1-matrix-multiplication-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krupa1310&repo=PGC-Experiment-1-matrix-multiplication-lab&theme=default" />
-</a>
-
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -155,12 +115,8 @@ Parallel computing experiment exploring matrix multiplication and performance.
   <img src="https://img.shields.io/badge/GitHub-Krupa1310-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/krupa-akki-995b02358/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
