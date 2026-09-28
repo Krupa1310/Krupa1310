@@ -39,7 +39,7 @@ I'm constantly somewhere between **"I wonder how this works"** and **"okay, now 
 
 My interests revolve around **AI/ML, intelligent systems, data, software development, and problem solving**.
 
-I enjoy projects where there is more to solve than just writing code — understanding the problem, figuring out the architecture, trying different approaches, and debugging things that absolutely did not want to be debugged 😭
+I enjoy projects where there is more to solve than just writing code — understanding the problem, figuring out the architecture, trying different approaches, and debugging things that absolutely did not want to be debugged 
 
 Most of my learning happens somewhere between a **terminal, a half-finished project, and far too many tabs open**.
 
