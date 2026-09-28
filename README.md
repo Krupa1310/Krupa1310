@@ -75,3 +75,16 @@ Parallel and GPU Computing experiment on matrix multiplication.
 <p align="center">
   ✨ Thanks for visiting my profile! ✨
 </p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krupa1310&show_icons=true&theme=default" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa1310&layout=compact&theme=default" height="170" />
+</p>
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Krupa1310&theme=default" />
+</p>
