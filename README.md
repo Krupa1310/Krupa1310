@@ -84,7 +84,6 @@ I learn by **building, breaking, fixing, and trying again.**
   <img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20Systems-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Processing-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Parallel%20Computing-6C63FF?style=flat-square" />
 </p>
