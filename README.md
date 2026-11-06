@@ -78,27 +78,6 @@ I learn by **building, breaking, fixing, and trying again.**
 </p>
 
 ---
-
-## 📌 Projects
-
-### ☁️ Cloud Computing
-
-**[CC-Experiment1-Hypervisor-Performance-Analysis](https://github.com/Krupa1310)**
-
-Exploring hypervisors and virtual machine performance through benchmarking.
-
-**[CC-Experiment-2-vm-vs-container-performance](https://github.com/Krupa1310)**
-
-Comparing virtual machine and container performance using practical workloads.
-
-### ⚡ Parallel & GPU Computing
-
-**[PGC-Experiment-1-matrix-multiplication-lab](https://github.com/Krupa1310)**
-
-Parallel computing experiment exploring matrix multiplication and performance.
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
